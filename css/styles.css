@@ -63,3 +63,7 @@ body {
   transition: .5s;
   color: var(--clr);
 }
+
+.navigation ul li:hover a .icon {
+  transform: translateY(-50px);
+}
